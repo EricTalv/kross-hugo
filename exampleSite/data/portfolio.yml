@@ -14,11 +14,11 @@ item:
   image: "/images/jeopardy.png"
   project_url: https://github.com/EricTalv/Jeopardy
   categories: []
-- title: Portfolio Item
-  image: images/portfolio/item-5.png
-  project_url: "#"
+- title: Web Development
+  image: "/images/trenet.png"
+  project_url: https://github.com/EricTalv/trenet
   categories:
-  - design
+  - web development
 - title: Portfolio Item
   image: images/portfolio/item-8.png
   project_url: http://examplesite.com
