@@ -1,4 +1,4 @@
-baseURL = "https://etweb.netlify.app/"
+baseURL = "http://erictalviste.com/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
