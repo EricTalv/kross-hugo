@@ -10,11 +10,10 @@ item:
   project_url: https://phpcompressor.000webhostapp.com/
   categories:
   - software development
-- title: Portfolio Item
-  image: images/portfolio/item-3.png
-  project_url: http://examplesite.com
-  categories:
-  - illustration
+- title: C# Jeopardy Game Maker
+  image: "/images/jeopardy.png"
+  project_url: https://github.com/EricTalv/Jeopardy
+  categories: []
 - title: Portfolio Item
   image: images/portfolio/item-5.png
   project_url: "#"
