@@ -24,11 +24,11 @@ item:
   project_url: https://dribbble.com/shots/11195069-NaturelyDesign
   categories:
   - mobile ui design
-- title: Portfolio Item
-  image: images/portfolio/item-6.png
-  project_url: "#"
+- title: Mp3 Design
+  image: "/images/mp3presentationmain.png"
+  project_url: https://dribbble.com/shots/11405257-MP3-player-brutalistic-redesign
   categories:
-  - design
+  - mobile ui design
 - title: Portfolio Item
   image: images/portfolio/item-1.png
   project_url: http://examplesite.com
