@@ -51,5 +51,8 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
+URL = "https://github.com/EricTalv"
+icon = "ti-github"
+[[params.social]]
 URL = "https://dribbble.com/EricTalv"
 icon = "ti-dribbble"
