@@ -22,7 +22,7 @@ weight = 4
 [params]
 address = "Tallinn, Harjumaa, Estonia"
 author = "Eric Talviste"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = ""
 description = "Eric Talviste, Portfolio"
 email = "erictalviste@gmail.com"
 google_analytics_id = ""
