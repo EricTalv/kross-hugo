@@ -5,11 +5,11 @@ item:
   project_url: https://github.com/EricTalv/PythonEmailScraper
   categories:
   - software development
-- title: Portfolio Item
-  image: images/portfolio/item-2.png
-  project_url: "#"
+- title: PHP Data Compressor Concept
+  image: "/images/a-php-concept-compressor.png"
+  project_url: https://phpcompressor.000webhostapp.com/
   categories:
-  - branding
+  - software development
 - title: Portfolio Item
   image: images/portfolio/item-3.png
   project_url: http://examplesite.com
