@@ -13,7 +13,8 @@ item:
 - title: C# Jeopardy Game Maker
   image: "/images/jeopardy.png"
   project_url: https://github.com/EricTalv/Jeopardy
-  categories: []
+  categories:
+  - software development
 - title: Web Development
   image: "/images/trenet.png"
   project_url: https://github.com/EricTalv/trenet
