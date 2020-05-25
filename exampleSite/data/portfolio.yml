@@ -39,11 +39,11 @@ item:
   project_url: https://dribbble.com/shots/11358043-Board-Game-E-commere-App
   categories:
   - mobile ui design
-- title: Portfolio Item
-  image: images/portfolio/item-7.png
-  project_url: http://examplesite.com
+- title: Asylum
+  image: "/images/bgames-present-2.png"
+  project_url: https://dribbble.com/shots/11341656-Asylum
   categories:
-  - branding
+  - mobile ui design
 clients_logo_slider:
   enable: true
   title: My Clients
