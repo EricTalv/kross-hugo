@@ -5,8 +5,13 @@ author_image: "/images/profile.png"
 author_signature: "/images/signature.png"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am a young software and web developer from Tallinn Estonia.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+My programming story is quite fresh, I started studying Software Development in 2016 at the _Tallinn Polytechnic school_, which led me down the web-dev-hill, ever since then I've been consuming an ungodly amount of knowledge.  
+  
+I enjoy programming as much as the next person, but more often I find myself on the front-end side of things.  
+I just like creating products and making them look cool and work swell.   
+  
+So far I've rummaged around the desktop apps of C#, visual basic and .NET programs, dabbled in python web scraping, but mostly been developing websites with many web-frameworks such as Vue and Hugo.   
+  
+I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.
