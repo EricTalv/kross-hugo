@@ -19,12 +19,11 @@ item:
   project_url: https://github.com/EricTalv/trenet
   categories:
   - web development
-- title: Portfolio Item
-  image: images/portfolio/item-8.png
-  project_url: http://examplesite.com
+- title: Naturely
+  image: "/images/naturelydesign.png"
+  project_url: https://dribbble.com/shots/11195069-NaturelyDesign
   categories:
-  - illustration
-  - development
+  - mobile ui design
 - title: Portfolio Item
   image: images/portfolio/item-6.png
   project_url: "#"
