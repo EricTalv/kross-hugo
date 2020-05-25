@@ -51,5 +51,5 @@ item:
   categories:
   - mobile ui design
 clients_logo_slider:
-  enable: true
+  enable: false
   title: My Clients
