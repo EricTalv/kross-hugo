@@ -3,7 +3,10 @@ banner:
   title: Hi! I’m <br> Eric <br> Web Developer
 about:
   enable: true
-  content: "I design and develop web and software applications. \n\n\n"
+  content: |+
+    Hi! I design and develop software and web applications.
+
+
   button:
     enable: true
     label: more
