@@ -1,6 +1,6 @@
 ---
 title: About
-description: This is meta description.
+description: Eric Talviste about me description
 author_image: "/images/profile.png"
 author_signature: "/images/signature.png"
 
