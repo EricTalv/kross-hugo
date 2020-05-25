@@ -27,7 +27,7 @@ description = "Eric Talviste, Portfolio"
 email = "erictalviste@gmail.com"
 google_analytics_id = ""
 home = "Home"
-logo = "images/logo.png"
+logo = "images/staggered.svg"
 phone = "+372 53021455"
 theme_color = "#145DA0"
 [params.contact]
