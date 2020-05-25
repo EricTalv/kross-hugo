@@ -40,7 +40,7 @@ experience:
     company: Freelancing
     duration: Mar 2019 - Present
 education:
-  enable: true
+  enable: false
   title: Education
   item:
   - title: Secondary Vocational education in Software development
