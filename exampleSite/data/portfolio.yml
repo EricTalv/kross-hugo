@@ -35,11 +35,10 @@ item:
   categories:
   - web ui design
 - title: B-Games
-  image: images/portfolio/item-3.png
-  project_url: "#"
+  image: "/images/bgames-present-2.png"
+  project_url: https://dribbble.com/shots/11358043-Board-Game-E-commere-App
   categories:
-  - illustration
-  - development
+  - mobile ui design
 - title: Portfolio Item
   image: images/portfolio/item-7.png
   project_url: http://examplesite.com
