@@ -29,11 +29,11 @@ item:
   project_url: https://dribbble.com/shots/11405257-MP3-player-brutalistic-redesign
   categories:
   - mobile ui design
-- title: Portfolio Item
-  image: images/portfolio/item-1.png
-  project_url: http://examplesite.com
+- title: Foodly
+  image: "/images/3e847fd1d72e886b090087be7a757905.png"
+  project_url: https://dribbble.com/shots/11340599-Web-apps
   categories:
-  - branding
+  - web ui design
 - title: Portfolio Item
   image: images/portfolio/item-3.png
   project_url: "#"
