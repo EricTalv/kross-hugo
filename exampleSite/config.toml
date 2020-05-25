@@ -22,7 +22,7 @@ weight = 4
 [params]
 address = "Tallinn, Harjumaa, Estonia"
 author = "Eric Talviste"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = ""
 description = "Eric Talviste, Portfolio"
 email = "erictalviste@gmail.com"
 google_analytics_id = ""
@@ -32,7 +32,7 @@ phone = "+372 53021455"
 theme_color = "#145DA0"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "https://formspree.io/xpzypplo"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]

@@ -1,53 +1,55 @@
-# portfolio item
+---
 item:
-  - title : "Portfolio Item"
-    image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
-    categories: ["design","development"]
-      
-  - title : "Portfolio Item"
-    image : "images/portfolio/item-2.png"
-    project_url : "#"
-    categories: ["branding"]
-      
-  - title : "Portfolio Item"
-    image : "images/portfolio/item-3.png"
-    project_url : "http://examplesite.com"
-    categories: ["illustration"]
-      
-  - title : "Portfolio Item"
-    image : "images/portfolio/item-5.png"
-    project_url : "#"
-    categories: ["design"]
-      
-  - title : "Portfolio Item"
-    image : "images/portfolio/item-8.png"
-    project_url : "http://examplesite.com"
-    categories: ["illustration","development"]
-      
-  - title : "Portfolio Item"
-    image : "images/portfolio/item-6.png"
-    project_url : "#"
-    categories: ["design"]
-      
-  - title : "Portfolio Item"
-    image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
-    categories: ["branding"]
-      
-  - title : "Portfolio Item"
-    image : "images/portfolio/item-3.png"
-    project_url : "#"
-    categories: ["illustration","development"]
-      
-  - title : "Portfolio Item"
-    image : "images/portfolio/item-7.png"
-    project_url : "http://examplesite.com"
-    categories: ["branding"]
-
-
-# client logo slider
+- title: Web Scraper
+  image: "/images/pythonscraper.png"
+  project_url: https://github.com/EricTalv/PythonEmailScraper
+  categories:
+  - software development
+- title: PHP Data Compressor Concept
+  image: "/images/a-php-concept-compressor.png"
+  project_url: https://phpcompressor.000webhostapp.com/
+  categories:
+  - software development
+- title: C# Jeopardy Game Maker
+  image: "/images/jeopardy.png"
+  project_url: https://github.com/EricTalv/Jeopardy
+  categories:
+  - software development
+- title: Web Development
+  image: "/images/trenet.png"
+  project_url: https://github.com/EricTalv/trenet
+  categories:
+  - web development
+- title: 'Bubbly API '
+  image: "/images/apipagepresent.png"
+  project_url: https://dribbble.com/shots/11590243-apiPagePresent
+  categories:
+  - web ui design
+- title: Naturely
+  image: "/images/naturelydesign.png"
+  project_url: https://dribbble.com/shots/11195069-NaturelyDesign
+  categories:
+  - mobile ui design
+- title: Mp3 Design
+  image: "/images/mp3presentationmain.png"
+  project_url: https://dribbble.com/shots/11405257-MP3-player-brutalistic-redesign
+  categories:
+  - mobile ui design
+- title: Foodly
+  image: "/images/3e847fd1d72e886b090087be7a757905.png"
+  project_url: https://dribbble.com/shots/11340599-Web-apps
+  categories:
+  - web ui design
+- title: B-Games
+  image: "/images/bgames-present-2.png"
+  project_url: https://dribbble.com/shots/11358043-Board-Game-E-commere-App
+  categories:
+  - mobile ui design
+- title: Asylum
+  image: "/images/asylumpresentation.png"
+  project_url: https://dribbble.com/shots/11341656-Asylum
+  categories:
+  - mobile ui design
 clients_logo_slider:
-  enable : true
-  title : "My Clients"
-  # clients logo comes from 'data/homepage.yml' file
+  enable: false
+  title: My Clients

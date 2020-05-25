@@ -28,62 +28,45 @@ skill:
     progress: 70%
     color: "#ffbcaa"
 experience:
-  enable: true
+  enable: false
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+    title: IT-Specialist and Software Developer
+    company: Trenet OÜ
+    duration: Mar 2018 - Mar 2019
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
-  - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+    title: UX & UI Designer / Web Developer
+    company: Freelancing
+    duration: Mar 2019 - Present
 education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+  - title: Secondary Vocational education in Software development
+    year: "2019"
+    academy: Tallinn Polytechnic School
 service:
-  enable: true
+  enable: false
   title: Services
   item:
-  - title: UI Design
+  - title: UI/UX Design
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'I design non-generic and more out of the bounds user-layouts and design
+      interfaces for websites and apps of any kind. '
     highlighted: false
-  - title: UX Design
-    icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Front-end Web Development
+    icon: ti-desktop
+    content: "I do front-end development for websites and applications. \nThis includes
+      the look and feel of your product, animations, and additionally integrating
+      content management systems to your product. "
     highlighted: true
-  - title: Interaction Design
-    icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
 portfolio:
   enable: true
   title: Portfolio
-  item_show: "5"
+  item_show: "4"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
@@ -134,5 +117,5 @@ clients_logo_slider:
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
 blog:
-  enable: true
+  enable: false
   title: Blogs
