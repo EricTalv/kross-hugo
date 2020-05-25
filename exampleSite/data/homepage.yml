@@ -50,15 +50,16 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: UI/UX Design
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'I design non-generic and more out of the bounds user-layouts and design
+      interfaces for websites and apps of any kind. '
     highlighted: false
-  - title: UX Design
-    icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Front-end Web Development
+    icon: ti-desktop
+    content: "I do front-end development for websites and applications. \nThis includes
+      the look and feel of your product, animations, and additionally integrating
+      content management systems to your product. "
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
