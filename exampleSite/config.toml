@@ -2,7 +2,7 @@ baseURL = "https://etweb.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "ET | Eric Talviste Portfolio"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -20,16 +20,16 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = "Tallinn, Harjumaa, Estonia"
+author = "Eric Talviste"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
+description = "Eric Talviste, Portfolio"
 email = "steve.fruits@email.com"
 google_analytics_id = ""
 home = "Home"
 logo = "images/logo.png"
 phone = "+880 2544 658 256"
-theme_color = "#41228e"
+theme_color = "#145DA0"
 [params.contact]
 enable = true
 form_action = "#"
@@ -51,14 +51,5 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
+URL = "https://dribbble.com/EricTalv"
 icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
