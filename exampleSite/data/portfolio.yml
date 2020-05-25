@@ -19,6 +19,11 @@ item:
   project_url: https://github.com/EricTalv/trenet
   categories:
   - web development
+- title: 'Bubbly API '
+  image: "/images/apipagepresent.png"
+  project_url: https://dribbble.com/shots/11590243-apiPagePresent
+  categories:
+  - web ui design
 - title: Naturely
   image: "/images/naturelydesign.png"
   project_url: https://dribbble.com/shots/11195069-NaturelyDesign
