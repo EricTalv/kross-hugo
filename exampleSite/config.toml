@@ -4,6 +4,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "ET | Eric Talviste Portfolio"
 [[menu.main]]
+URL = "blog"
+name = "blog"
+weight = "4"
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
