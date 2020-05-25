@@ -4,7 +4,7 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "ET | Eric Talviste Portfolio"
 [[menu.main]]
-URL = "blog"
+URL = "http://etxp.tk/"
 name = "blog"
 weight = "4"
 [[menu.main]]
