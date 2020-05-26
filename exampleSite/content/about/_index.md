@@ -1,7 +1,7 @@
 ---
 title: About
 description: Eric Talviste about me description
-author_image: "/images/profile.png"
+author_image: "/images/profile3.png"
 author_signature: "/images/signature.png"
 
 ---
