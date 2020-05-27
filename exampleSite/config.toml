@@ -3,6 +3,7 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "ET | Eric Talviste Portfolio"
+enableRobotsTXT = "true"
 [[menu.main]]
 URL = "about"
 name = "About"
