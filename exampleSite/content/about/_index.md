@@ -16,6 +16,4 @@ I really enjoy the design process and visuals when it comes to making great prod
 
 Besides that, so far I've rummaged around the desktop apps of C#, visual basic and .NET programs, dabbled in python web scraping, but mostly been developing websites with many web-frameworks such as Vue and Hugo.
 
-I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.  
-  
-\---
+I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.
