@@ -18,8 +18,4 @@ Besides that, so far I've rummaged around the desktop apps of C#, visual basic a
 
 I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.  
   
-\---  
-**Notice: I have made an incredible fluke In my job application endeavors that a simple dot has went missing from my email.   
-If you wish to contact me it is:   
-eric.talviste@gmail.com  
-with a dot.**
+\---
