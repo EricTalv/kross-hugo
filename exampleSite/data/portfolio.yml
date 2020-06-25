@@ -3,7 +3,8 @@ item:
 - title: VAT-Identifier application
   image: "/images/vat-idnetifier.png"
   project_url: https://github.com/EricTalv/vat-checker
-  categories: ''
+  categories:
+  - web development
 - title: Web Scraper
   image: "/images/pythonscraper.png"
   project_url: https://github.com/EricTalv/PythonEmailScraper
