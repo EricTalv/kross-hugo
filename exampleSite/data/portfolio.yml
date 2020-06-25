@@ -20,11 +20,6 @@ item:
   project_url: https://github.com/EricTalv/Jeopardy
   categories:
   - software development
-- title: Trenets Page
-  image: "/images/trenet.png"
-  project_url: https://github.com/EricTalv/trenet
-  categories:
-  - web development
 - title: 'Bubbly API '
   image: "/images/apipagepresent.png"
   project_url: https://dribbble.com/shots/11590243-apiPagePresent
