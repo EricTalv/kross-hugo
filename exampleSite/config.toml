@@ -49,7 +49,7 @@ enable = true
 preloader = ""
 [[params.social]]
 URL = "https://www.behance.net/erictalviste6"
-icon = "fa-behance"
+icon = "ti-pencil-alt2"
 [[params.social]]
 URL = "https://www.linkedin.com/in/erictalviste/"
 icon = "ti-linkedin"
