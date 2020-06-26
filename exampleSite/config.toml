@@ -48,6 +48,9 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
+URL = "https://www.behance.net/erictalviste6"
+icon = "ti-behance"
+[[params.social]]
 URL = "https://www.linkedin.com/in/erictalviste/"
 icon = "ti-linkedin"
 [[params.social]]
