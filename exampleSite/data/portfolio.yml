@@ -1,10 +1,5 @@
 ---
 item:
-- title: Would They Remember Design
-  image: "/images/would-they-remember.png"
-  project_url: https://dribbble.com/shots/12327794-would-they-remember
-  categories:
-  - graphic design
 - title: VAT-Identifier application
   image: "/images/vat-idnetifier.png"
   project_url: https://github.com/EricTalv/vat-checker
@@ -25,6 +20,15 @@ item:
   project_url: https://github.com/EricTalv/Jeopardy
   categories:
   - software development
+- title: Would They Remember Design
+  image: "/images/would-they-remember.png"
+  project_url: https://dribbble.com/shots/12327794-would-they-remember
+  categories:
+  - graphic design
+- title: Did you lose
+  image: "/images/didyoulosemain.png"
+  project_url: ''
+  categories: ''
 - title: 'Bubbly API '
   image: "/images/apipagepresent.png"
   project_url: https://dribbble.com/shots/11590243-apiPagePresent
