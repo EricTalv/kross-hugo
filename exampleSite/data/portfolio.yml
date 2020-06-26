@@ -27,8 +27,9 @@ item:
   - graphic design
 - title: Did you lose
   image: "/images/didyoulosemain.png"
-  project_url: ''
-  categories: ''
+  project_url: https://dribbble.com/shots/12328025-DidYouLose
+  categories:
+  - graphic design
 - title: 'Bubbly API '
   image: "/images/apipagepresent.png"
   project_url: https://dribbble.com/shots/11590243-apiPagePresent
