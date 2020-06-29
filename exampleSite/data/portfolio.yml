@@ -28,7 +28,8 @@ item:
 - title: Take Me Away
   image: "/images/take-me-away.png"
   project_url: https://www.behance.net/gallery/99701933/Take-Me-Away?
-  categories: ''
+  categories:
+  - graphic design
 - title: Breaking the barrier
   image: "/images/breaking-the-barrier.png"
   project_url: https://www.behance.net/gallery/99594037/Breaking-our-Barrier?share=1
