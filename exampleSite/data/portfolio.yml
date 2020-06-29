@@ -20,6 +20,10 @@ item:
   project_url: https://github.com/EricTalv/Jeopardy
   categories:
   - software development
+- title: Black lives matter
+  image: "/images/blm.png"
+  project_url: https://www.behance.net/gallery/99760623/We-Are-Human
+  categories: ''
 - title: Take Me Away
   image: "/images/take-me-away.png"
   project_url: https://www.behance.net/gallery/99701933/Take-Me-Away?
