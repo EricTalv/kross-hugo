@@ -33,8 +33,8 @@ I also create some chaotic digital art which you can find on instagram if you're
 **How to contact me?**  
 On the site contact form or try one of these:  
 e-mail: _eric.talviste@gmail.com_  
-phone: _+372 5302 1455**  
-\**_  
+phone: _+372 5302 1455  
+_  
 Thanks for dropping by.
 
 Best wishes,  
